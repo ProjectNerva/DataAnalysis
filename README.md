@@ -1,4 +1,4 @@
-Usage instructions:
+## Usage instructions:
 1. Clone repo
 2. Have Python, Jupyter, and other dependencies installed
 3. Open notebook
